@@ -63,7 +63,19 @@ python3 main.py
 ### 8. Comparar propostas de candidatos por área
 ![Interface de comparação de propostas de candidatos separadas por área](https://raw.githubusercontent.com/eda2-2026/G23_Busca_EDA2-2026.2/refs/heads/main/img/10.png)
 ## Vídeo demonstrativo
-[![Texto alternativo](URL_da_imagem_de_capa)](URL_do_video)
+<p align="center">
+
+<a href="https://www.youtube.com/watch?v=y0XFhUGD3n0">
+  <img 
+    src="https://img.youtube.com/vi/y0XFhUGD3n0/maxresdefault.jpg"
+    width="700"
+    alt="Demonstração do projeto"
+  >
+</a>
+
+<br>
+
+</p>
 
 
 
