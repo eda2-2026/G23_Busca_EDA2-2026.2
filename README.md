@@ -26,8 +26,6 @@ python3 main.py
 ```
 ## Estruturas de dados usadas
 
-- **Vetor (`list`)**: armazena os candidatos titulares. Vices e suplentes são mantidos em um índice separado.
-
 - **Tabela Hash**: permite a busca rápida pelo `SQ_CANDIDATO`, utilizando endereçamento aberto e sondagem linear.
 
 - **Lista Encadeada**: armazena as propostas de governo por meio de nós encadeados criados manualmente.
