@@ -84,7 +84,7 @@ def resolver_candidato_por_nome(sistema, nome):
 
 
 def opcao_buscar_por_nome(sistema):
-    nome = input("Digite o nome (busca binaria, exata): ").strip()
+    nome = input("Digite o nome: ").strip()
     candidato = resolver_candidato_por_nome(sistema, nome)
     if candidato:
         mostrar_ficha_com_propostas(sistema, candidato)
@@ -99,7 +99,7 @@ def opcao_buscar_por_numero(sistema):
 
 
 def opcao_buscar_por_partido(sistema):
-    sigla = input("Digite a sigla do partido (ex.: PT, PL, PSOL): ").strip()
+    sigla = input("Digite a sigla do partido (ex: PT, PL, PSOL): ").strip()
     resultados = sistema.buscar_por_partido(sigla)
     mostrar_lista(sistema, resultados, f"CANDIDATOS DO PARTIDO {sigla.upper()}")
 
@@ -113,7 +113,7 @@ def opcao_buscar_por_cargo(sistema):
 
 
 def opcao_buscar_por_estado(sistema):
-    estado = input("Digite o estado (BR, DF ou GO): ").strip()
+    estado = input("Digite o estado ( DF ou GO): ").strip()
     resultados = sistema.buscar_por_estado(estado)
     mostrar_lista(sistema, resultados, f"CANDIDATOS DO ESTADO: {estado.upper()}")
 
@@ -167,7 +167,7 @@ def opcao_comparar_propostas(sistema):
 
 def exibir_menu():
     linha()
-    print("           BUSCACANDIDATO DF-GO (2026)")
+    print("          BUSCARCANDIDATO DF & GO (2026)")
     linha()
     print("1  - Buscar candidato por nome ")
     print("2  - Buscar candidato por numero")

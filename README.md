@@ -24,7 +24,8 @@ Sistema de consulta de candidatos e propostas de governo — Eleições 2026 (Pr
 Requer apenas Python 3.
 
 ```bash
-cd buscarcandidato/src
+cd G23_Busca_EDA2-2026.2
+cd src
 python3 main.py
 ```
 ## Estruturas de dados usadas
