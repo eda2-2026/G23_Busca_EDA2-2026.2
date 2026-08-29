@@ -1,19 +1,18 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=61&pause=1000&color=F7F400&background=0079345A&center=true&vCenter=true&width=1500&height=100&lines=+Buscar+candidatos;2026)](https://git.io/typing-svg)
+
+
 # G23_Busca_EDA2-2026.2
 >Repositorio dedicado ao Trabalho 1 na turma de Estruturas de Dados 2 do 2o semestre de 2026.
 
-
-## Aluno
-| Matricula | Aluno           |
-| --------- | --------------- |
-| 221007715 | Fernanda Santos |
-
----
-
-# Buscarcandidato2026
 ![Demonstração do aplicativo](https://raw.githubusercontent.com/eda2-2026/G23_Busca_EDA2-2026.2/refs/heads/main/img/eleiçoes.png)
  
 
  ---
+
+ ## Aluno
+| Matricula | Aluno           |
+| --------- | --------------- |
+| 221007715 | Fernanda Santos |
 
 ## Sobre  
 Sistema de consulta de candidatos e propostas de governo — Eleições 2026 (Presidente, DF e GO) — construído em cima dos dados reais fornecidos pelo TSE.
