@@ -10,7 +10,7 @@
 ---
 
 # Buscarcandidato2026
-![Demonstração do aplicativo](img\eleiçoes.png)
+![Demonstração do aplicativo](https://raw.githubusercontent.com/eda2-2026/G23_Busca_EDA2-2026.2/refs/heads/main/img/eleiçoes.png)
  
 
  ---
@@ -48,25 +48,25 @@ python3 main.py
 
 ##  Buscar candidato por numero
 
-![Texto alternativo da imagem](img\1.png)
+![Texto alternativo da imagem](https://raw.githubusercontent.com/eda2-2026/G23_Busca_EDA2-2026.2/refs/heads/main/img/1.png)
 
 ## Buscar por partido
-![Texto alternativo da imagem](img\2.png)
+![Texto alternativo da imagem](https://raw.githubusercontent.com/eda2-2026/G23_Busca_EDA2-2026.2/refs/heads/main/img/2.png)
 
 ##  Buscar por cargo
-![Texto alternativo da imagem](img\03.png)
+![Texto alternativo da imagem]( https://raw.githubusercontent.com/eda2-2026/G23_Busca_EDA2-2026.2/refs/heads/main/img/03.png)
 
 ## Buscar por estado
-![Texto alternativo da imagem](img\4.png)
+![Texto alternativo da imagem](https://raw.githubusercontent.com/eda2-2026/G23_Busca_EDA2-2026.2/refs/heads/main/img/4.png)
 
 ## Listar candidatos 
-![Texto alternativo da imagem](img\5.png)
+![Texto alternativo da imagem](https://raw.githubusercontent.com/eda2-2026/G23_Busca_EDA2-2026.2/refs/heads/main/img/5.png)
 
 ##  Ver propostas de um candidato
-![Texto alternativo da imagem](img\6.png)
+![Texto alternativo da imagem](https://raw.githubusercontent.com/eda2-2026/G23_Busca_EDA2-2026.2/refs/heads/main/img/6.png)
 
 ## Comparar propostas de candidatos por area
-![Texto alternativo da imagem](img/10.png)
+![Texto alternativo da imagem](https://raw.githubusercontent.com/eda2-2026/G23_Busca_EDA2-2026.2/refs/heads/main/img/10.pn)
 
 ## Vídeo demonstrativo
 [![Texto alternativo](URL_da_imagem_de_capa)](URL_do_video)
